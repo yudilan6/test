@@ -8,4 +8,4 @@ f.输入密码，再次输入密码
 h.登录github，设置sshkey。点击settings->New SSH Key,填上任意title,将生成的公钥复制到key的文本框，点击ADD。
 i.创建repository,保存https地址（在clone or download中）
 
-#更新
+更新
