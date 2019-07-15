@@ -7,5 +7,9 @@ e.输入保存公私钥的文件：
 f.输入密码，再次输入密码
 h.登录github，设置sshkey。点击settings->New SSH Key,填上任意title,将生成的公钥复制到key的文本框，点击ADD。
 i.创建repository,保存https地址（在clone or download中）
+<<<<<<< HEAD
 
 更新
+=======
+j.在本地创建一个文件夹，使用命令将github上的项目拷贝到本地，git clone (上一步中的https地址)
+>>>>>>> faaa24488ec4f0dc32ecb58c682c1f3f54c6dd51
