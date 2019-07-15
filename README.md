@@ -8,4 +8,4 @@ f.输入密码，再次输入密码
 h.登录github，设置sshkey。点击settings->New SSH Key,填上任意title,将生成的公钥复制到key的文本框，点击ADD。
 i.创建repository,保存https地址（在clone or download中）
 j.在本地创建一个文件夹，使用命令将github上的项目拷贝到本地，git clone (上一步中的https地址)
-
+k.当提交时一直报错： Authentication failed for "https://github.com/***/***.git/" 输入以下命令：git config --system --unset credential.helper
